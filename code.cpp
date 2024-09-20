@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-    cout<< "This is a CPP code";
+    cout<< "This is a CPP code"<<endl;
 }
